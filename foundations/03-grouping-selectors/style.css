@@ -4,3 +4,9 @@
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
+.first-element {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
